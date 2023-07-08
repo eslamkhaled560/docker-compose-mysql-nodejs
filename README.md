@@ -5,12 +5,13 @@ This repository provides a comprehensive guide and resources for containerizing 
 -----------------------------------------
 ## Getting Started:
 
-- Clone the repository
+- Clone repository and move to it
 ```
 git clone https://github.com/eslamkhaled560/docker-compose-mysql-nodejs.git
+cd docker-compose-mysql-nodejs
 ```
 
-- Run docker compose
+- Run docker-compose
 ```
 docker-compose up
 ```
